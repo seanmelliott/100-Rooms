@@ -1,0 +1,21 @@
+"Room 1" by Sean M Elliott
+
+The release number is 1. The story creation year is 2014. The story headline is "100 Rooms - Room 1.". The story description is "The Green Door."
+
+Chapter 1 - The Game
+
+When play begins: say "Midnight, one more night without sleepin['][line break]Watchin['], till the morning comes creepin['][line break]Green door, what's that secret you're keepin[']?"
+
+Section 1 - The Room
+
+The White is a room.  "The room you find yourself in is entirely white.  Light seems to come from all directions.
+
+To the north is the green door."
+
+The green door is a door.  The green door is scenery.  The green door is closed.  The green door is north of the White and south of the Corridore.  The description of the green door is "It is green.  And a door."
+
+After opening the green door, say "As you reach out, the door opens itself into darkness."
+
+After going to the Corridore:
+    say "You step from your cell and out into the rest of the world.";
+    end the game in victory.
